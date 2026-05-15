@@ -1,0 +1,533 @@
+[2026-05-15 19:34:31,184] JoaoGabriel/INFO/locust.main: Starting Locust 2.43.3
+[2026-05-15 19:34:31,199] JoaoGabriel/INFO/locust.main: Run time limit set to 120 seconds
+[2026-05-15 19:34:31,204] JoaoGabriel/WARNING/root: Exception in keyboard input poller: cannot access free variable 'url' where it is not associated with a value in enclosing scope
+[2026-05-15 19:34:31,206] JoaoGabriel/INFO/linkextractor: ============================================================
+[2026-05-15 19:34:31,206] JoaoGabriel/INFO/linkextractor:   TESTE INICIADO
+[2026-05-15 19:34:31,207] JoaoGabriel/INFO/linkextractor:   Host alvo   : http://localhost:5003
+[2026-05-15 19:34:31,207] JoaoGabriel/INFO/linkextractor:   Usuários    : 350
+[2026-05-15 19:34:31,207] JoaoGabriel/INFO/linkextractor:   URLs/ciclo  : 10
+[2026-05-15 19:34:31,208] JoaoGabriel/INFO/linkextractor: ============================================================
+[2026-05-15 19:34:31,208] JoaoGabriel/INFO/locust.runners: Ramping to 350 users at a rate of 5.00 per second
+[2026-05-15 19:35:21,069] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://flask.palletsprojects.com/
+[2026-05-15 19:35:21,428] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:21,431] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:21,434] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:21,437] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:21,442] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:22,434] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:22,437] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:22,443] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:22,446] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:22,449] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:22,862] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://redis.io/
+[2026-05-15 19:35:23,448] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:23,451] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:23,456] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:23,460] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:23,462] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:24,446] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:24,448] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:24,456] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:24,461] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:24,464] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:25,459] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:25,462] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:25,464] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:25,467] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:25,470] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:26,530] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:26,533] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:26,536] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:26,539] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:26,542] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:27,484] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:27,488] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:27,490] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:27,492] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:27,494] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:28,493] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:28,498] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:28,502] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:28,505] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:28,508] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:29,490] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:29,494] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:29,502] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:29,505] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:29,506] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:29,920] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:30,519] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:30,521] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:30,522] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:30,525] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:30,527] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:31,517] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:31,520] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:31,523] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:31,528] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:31,534] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:32,532] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:32,595] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:32,598] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:32,602] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:32,606] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:33,533] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:33,535] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:33,538] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:33,543] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:33,552] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:34,547] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:34,548] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:34,549] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:34,552] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:34,554] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:36,400] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:36,480] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:36,514] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:36,521] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:36,524] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:36,619] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:36,622] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:36,625] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:36,649] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:36,652] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:37,577] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:37,581] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:37,582] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:37,584] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:37,589] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:38,630] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:38,632] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:38,653] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:38,655] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:38,658] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:39,600] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:39,615] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:39,617] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:39,618] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:39,620] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:39,924] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://locust.io/
+[2026-05-15 19:35:40,609] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:40,613] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:40,616] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:40,618] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:40,622] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:41,644] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:41,651] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:41,659] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:41,663] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:41,668] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:42,456] JoaoGabriel/INFO/locust.runners: All users spawned: {"LinkExtractorUser": 350} (350 total users)
+[2026-05-15 19:35:42,620] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:42,626] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:42,629] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:42,632] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:42,638] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:43,690] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:43,693] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:43,704] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:43,707] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:43,726] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:44,628] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:44,632] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:44,636] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:44,638] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:44,640] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:45,655] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:45,659] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:45,672] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:45,676] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:45,679] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:46,652] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:46,657] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:46,663] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:46,671] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:46,678] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:47,655] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:47,658] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:47,671] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:47,673] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:47,675] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:48,669] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:48,672] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:48,675] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:48,676] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:48,680] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:49,683] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:49,685] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:49,686] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:49,689] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:49,690] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:50,690] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:50,692] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:50,698] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:50,701] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:50,704] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:51,089] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://redis.io/
+[2026-05-15 19:35:51,458] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:51,462] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:51,466] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:51,470] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:51,471] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:51,704] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:51,713] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:51,716] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:51,719] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:51,723] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:52,453] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:52,472] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:52,474] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:52,479] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:52,483] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:52,704] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:52,721] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:52,725] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:52,730] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:52,734] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:52,872] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://locust.io/
+[2026-05-15 19:35:52,887] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://locust.io/
+[2026-05-15 19:35:53,498] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:53,504] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:53,515] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:53,516] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:53,520] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:53,715] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:53,716] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:53,733] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:53,736] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:53,758] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:54,474] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:54,480] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:54,499] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:54,502] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:54,510] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:54,724] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:54,732] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:54,734] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:54,741] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:54,745] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:55,489] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:55,491] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:55,494] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:55,496] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:55,498] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:55,747] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:55,749] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:55,751] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:55,753] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:55,755] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:56,588] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:56,597] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:56,599] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:56,602] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:56,608] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:56,760] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:56,763] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:56,764] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:56,766] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:56,768] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:57,501] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:57,504] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:57,507] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:57,511] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:57,515] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:57,764] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:57,766] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:57,769] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:57,771] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:57,775] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:58,500] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:58,522] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:58,525] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:58,529] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:58,531] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:58,766] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:58,773] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:58,776] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:58,780] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:58,800] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:59,535] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:59,539] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:59,542] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:59,546] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:59,551] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:35:59,777] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:59,781] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:59,794] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:59,799] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:59,801] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:35:59,930] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://httpbin.org/
+[2026-05-15 19:36:00,545] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:00,547] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:00,550] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:00,551] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:00,554] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:00,806] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:00,809] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:00,812] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:00,813] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:00,816] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:01,554] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:01,557] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:01,561] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:01,564] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:01,567] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:01,828] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:01,830] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:01,833] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:01,837] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:01,840] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:02,545] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:02,628] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:02,631] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:02,635] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:02,639] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:02,831] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:02,847] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:02,850] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:02,859] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:02,864] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:03,585] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:03,588] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:03,590] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:03,594] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:03,896] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:03,923] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:03,925] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:03,927] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:03,933] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:03,941] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:04,568] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:04,571] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:04,573] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:04,574] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:04,575] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:06,600] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:06,603] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:06,629] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:06,639] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:06,662] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:06,669] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:06,671] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:06,673] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:06,675] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:06,678] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:06,680] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:06,686] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:06,689] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:06,691] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:06,705] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:07,437] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:07,441] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:07,444] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:07,461] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:07,464] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:07,607] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:07,610] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:07,612] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:07,615] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:07,618] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:08,446] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:08,451] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:08,454] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:08,456] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:08,459] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:08,636] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:08,638] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:08,668] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:08,670] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:08,672] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:09,456] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:09,464] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:09,468] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:09,471] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:09,473] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:09,616] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:11,616] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:11,618] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:11,622] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:11,627] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:11,630] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:36:11,651] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:11,653] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:11,656] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:11,658] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:11,668] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:11,672] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:11,674] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:11,677] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:11,679] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:11,681] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:11,806] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:11,835] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:11,848] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:11,850] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:11,852] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:11,856] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:11,859] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:11,862] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:11,867] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:11,872] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:12,482] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:12,485] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:12,496] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:12,499] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:12,501] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para http://example.com/
+[2026-05-15 19:36:12,653] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:12,657] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:12,660] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:12,674] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:12,678] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:13,712] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:13,715] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:13,744] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:13,746] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:13,750] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:14,664] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:14,666] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:14,668] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:14,670] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:14,675] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:15,662] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:15,666] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:15,691] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:15,697] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:15,700] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:16,698] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:16,700] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:16,702] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:16,704] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:16,714] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:17,664] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:17,668] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:17,689] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:17,693] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:17,696] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:18,703] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:18,706] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:18,709] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:18,712] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:18,714] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:19,699] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:19,703] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:19,708] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:19,709] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:19,711] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:20,716] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:20,720] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:20,722] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:20,726] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:20,730] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:21,095] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://locust.io/
+[2026-05-15 19:36:21,514] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://httpbin.org/
+[2026-05-15 19:36:21,538] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://httpbin.org/
+[2026-05-15 19:36:21,540] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://httpbin.org/
+[2026-05-15 19:36:21,543] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://httpbin.org/
+[2026-05-15 19:36:21,548] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://httpbin.org/
+[2026-05-15 19:36:21,726] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:21,742] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:21,744] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:21,747] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:21,756] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:22,463] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://httpbin.org/
+[2026-05-15 19:36:22,509] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://httpbin.org/
+[2026-05-15 19:36:22,510] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://httpbin.org/
+[2026-05-15 19:36:22,512] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://httpbin.org/
+[2026-05-15 19:36:22,514] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://httpbin.org/
+[2026-05-15 19:36:22,717] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:22,763] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:22,766] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:22,769] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:22,771] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:22,891] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:36:22,896] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:36:23,525] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://httpbin.org/
+[2026-05-15 19:36:23,527] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://httpbin.org/
+[2026-05-15 19:36:23,530] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://httpbin.org/
+[2026-05-15 19:36:23,535] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://httpbin.org/
+[2026-05-15 19:36:23,538] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://httpbin.org/
+[2026-05-15 19:36:23,737] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:23,772] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:23,775] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:23,777] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:23,787] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:24,490] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://httpbin.org/
+[2026-05-15 19:36:26,172] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://httpbin.org/
+[2026-05-15 19:36:26,177] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://httpbin.org/
+[2026-05-15 19:36:26,181] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://httpbin.org/
+[2026-05-15 19:36:26,185] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://httpbin.org/
+[2026-05-15 19:36:26,187] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:26,190] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:26,202] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:26,204] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:26,207] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:26,258] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://httpbin.org/
+[2026-05-15 19:36:26,261] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://httpbin.org/
+[2026-05-15 19:36:26,264] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://httpbin.org/
+[2026-05-15 19:36:26,266] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://httpbin.org/
+[2026-05-15 19:36:26,267] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://httpbin.org/
+[2026-05-15 19:36:26,270] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:26,272] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:26,274] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:26,275] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:26,278] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:26,375] JoaoGabriel/INFO/locust.main: --run-time limit reached, shutting down
+[2026-05-15 19:36:27,308] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://httpbin.org/
+[2026-05-15 19:36:27,309] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://httpbin.org/
+[2026-05-15 19:36:27,313] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://httpbin.org/
+[2026-05-15 19:36:27,315] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://httpbin.org/
+[2026-05-15 19:36:27,318] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://httpbin.org/
+[2026-05-15 19:36:27,322] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:27,326] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:27,329] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:27,331] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:27,333] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://books.toscrape.com/
+[2026-05-15 19:36:27,868] JoaoGabriel/INFO/linkextractor: ============================================================
+[2026-05-15 19:36:27,868] JoaoGabriel/INFO/linkextractor:   TESTE FINALIZADO
+[2026-05-15 19:36:27,868] JoaoGabriel/INFO/linkextractor:   Acesse http://localhost:8089 para ver os resultados
+[2026-05-15 19:36:27,869] JoaoGabriel/INFO/linkextractor:   Ou use --csv <prefixo> para exportar automaticamente
+[2026-05-15 19:36:27,869] JoaoGabriel/INFO/linkextractor: ============================================================
+[2026-05-15 19:36:27,871] JoaoGabriel/INFO/locust.main: Shutting down (exit code 1)
+Type     Name                                                                          # reqs      # fails |    Avg     Min     Max    Med |   req/s  failures/s
+--------|----------------------------------------------------------------------------|-------|-------------|-------|-------|-------|-------|--------|-----------
+GET      GET /api/ -> http://example.com/                                                 437     0(0.00%) |  18834     220   31219  30000 |    3.75        0.00
+GET      GET /api/ -> https://books.toscrape.com/                                         357     0(0.00%) |  18341     997   32006  30000 |    3.07        0.00
+GET      GET /api/ -> https://docs.docker.com/                                            139     0(0.00%) |   7397     738   21983   5800 |    1.19        0.00
+GET      GET /api/ -> https://flask.palletsprojects.com/                                  125     0(0.00%) |   8765    1120   30276   7300 |    1.07        0.00
+GET      GET /api/ -> https://github.com/ibnesayeed/linkextractor                         102     0(0.00%) |   9210    1402   31704   8100 |    0.88        0.00
+GET      GET /api/ -> https://httpbin.org/                                                195     1(0.51%) |  10197     705   31691   5700 |    1.67        0.01
+GET      GET /api/ -> https://locust.io/                                                  108     0(0.00%) |   8393     717   30014   6100 |    0.93        0.00
+GET      GET /api/ -> https://redis.io/                                                   114     0(0.00%) |  11187    3205   30019  10000 |    0.98        0.00
+GET      GET /api/ -> https://training.play-with-docker.com/                               90     0(0.00%) |   5589     628   18364   4400 |    0.77        0.00
+GET      GET /api/ -> https://www.python.org/                                             152     0(0.00%) |   7469     556   27508   6300 |    1.31        0.00
+--------|----------------------------------------------------------------------------|-------|-------------|-------|-------|-------|-------|--------|-----------
+         Aggregated                                                                      1819     1(0.05%) |  13002     220   32006   8300 |   15.62        0.01
+
+Response time percentiles (approximated)
+Type     Name                                                                                  50%    66%    75%    80%    90%    95%    98%    99%  99.9% 99.99%   100% # reqs
+--------|--------------------------------------------------------------------------------|--------|------|------|------|------|------|------|------|------|------|------|------
+GET      GET /api/ -> http://example.com/                                                    30000  30000  30000  30000  30000  30000  31000  31000  31000  31000  31000    437
+GET      GET /api/ -> https://books.toscrape.com/                                            30000  30000  30000  30000  30000  31000  31000  32000  32000  32000  32000    357
+GET      GET /api/ -> https://docs.docker.com/                                                5800   8400  11000  12000  15000  18000  21000  21000  22000  22000  22000    139
+GET      GET /api/ -> https://flask.palletsprojects.com/                                      7300  11000  12000  14000  18000  20000  22000  24000  30000  30000  30000    125
+GET      GET /api/ -> https://github.com/ibnesayeed/linkextractor                             8100  10000  12000  13000  16000  19000  30000  30000  32000  32000  32000    102
+GET      GET /api/ -> https://httpbin.org/                                                    5700   9500  14000  19000  30000  31000  32000  32000  32000  32000  32000    195
+GET      GET /api/ -> https://locust.io/                                                      6200   8500  11000  13000  18000  26000  30000  30000  30000  30000  30000    108
+GET      GET /api/ -> https://redis.io/                                                      10000  13000  15000  15000  17000  22000  29000  30000  30000  30000  30000    114
+GET      GET /api/ -> https://training.play-with-docker.com/                                  4700   6700   8500   9000  13000  13000  17000  18000  18000  18000  18000     90
+GET      GET /api/ -> https://www.python.org/                                                 6300   9300  10000  11000  15000  18000  23000  26000  28000  28000  28000    152
+--------|--------------------------------------------------------------------------------|--------|------|------|------|------|------|------|------|------|------|------|------
+         Aggregated                                                                           8300  14000  30000  30000  30000  30000  31000  31000  32000  32000  32000   1819
+
+Error report
+# occurrences      Error                                                                                               
+------------------|---------------------------------------------------------------------------------------------------------------------------------------------
+1                  GET GET /api/ -> https://httpbin.org/: Erro interno do servidor (500) para https://httpbin.org/     
+------------------|---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+[Locust] Iniciando teste contra: http://localhost:5003
+
+
+[Locust] Teste concluído. Verifique os resultados na UI.
+

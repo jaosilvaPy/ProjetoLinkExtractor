@@ -1,0 +1,153 @@
+[2026-05-15 19:21:39,394] JoaoGabriel/INFO/locust.main: Starting Locust 2.43.3
+[2026-05-15 19:21:39,398] JoaoGabriel/INFO/locust.main: Run time limit set to 120 seconds
+[2026-05-15 19:21:39,401] JoaoGabriel/WARNING/root: Exception in keyboard input poller: cannot access free variable 'url' where it is not associated with a value in enclosing scope
+[2026-05-15 19:21:39,401] JoaoGabriel/INFO/linkextractor: ============================================================
+[2026-05-15 19:21:39,401] JoaoGabriel/INFO/linkextractor:   TESTE INICIADO
+[2026-05-15 19:21:39,401] JoaoGabriel/INFO/linkextractor:   Host alvo   : http://localhost:5002
+[2026-05-15 19:21:39,402] JoaoGabriel/INFO/linkextractor:   Usuários    : 100
+[2026-05-15 19:21:39,402] JoaoGabriel/INFO/linkextractor:   URLs/ciclo  : 10
+[2026-05-15 19:21:39,402] JoaoGabriel/INFO/linkextractor: ============================================================
+[2026-05-15 19:21:39,402] JoaoGabriel/INFO/locust.runners: Ramping to 100 users at a rate of 5.00 per second
+[2026-05-15 19:21:58,850] JoaoGabriel/INFO/locust.runners: All users spawned: {"LinkExtractorUser": 100} (100 total users)
+[2026-05-15 19:22:23,176] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:23,466] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:23,620] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:24,126] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:24,216] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:24,239] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:24,263] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:24,266] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:24,273] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:24,289] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:24,297] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:24,339] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:24,372] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:24,651] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:24,898] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:24,927] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:25,001] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:25,016] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:25,078] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:25,124] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:25,309] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:25,356] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:25,464] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:25,760] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:25,854] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:25,856] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:25,901] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:25,904] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:26,118] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:26,121] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:26,149] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:26,151] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:26,227] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:26,231] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:26,383] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:26,386] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:26,461] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:26,491] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:26,585] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:26,588] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:26,744] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:26,993] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:27,088] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:27,103] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:27,105] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:27,112] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:27,335] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:27,364] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:27,574] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:27,576] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:27,743] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:27,884] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:27,899] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:27,900] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:27,903] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:28,087] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:28,089] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:28,164] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:28,168] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:28,246] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:28,248] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:28,254] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:28,258] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:28,261] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:28,262] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:28,264] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:28,321] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:28,323] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:28,349] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:28,448] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:28,467] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:28,469] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:28,557] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:28,601] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:28,610] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:28,620] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:28,677] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:28,683] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:28,751] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:28,755] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:28,934] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:29,074] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:29,078] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:29,081] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:29,153] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:29,155] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:29,370] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:29,378] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:29,384] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:29,387] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:29,389] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:30,184] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:30,342] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:30,732] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:31,231] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:35,784] JoaoGabriel/WARNING/linkextractor: Status inesperado 0 para https://github.com/ibnesayeed/linkextractor
+[2026-05-15 19:22:59,527] JoaoGabriel/WARNING/root: CPU usage above 90%! This may constrain your throughput and may even give inconsistent response time measurements! See https://docs.locust.io/en/stable/running-distributed.html for how to distribute the load over multiple CPU cores or machines
+[2026-05-15 19:23:38,000] JoaoGabriel/INFO/locust.main: --run-time limit reached, shutting down
+[2026-05-15 19:23:38,975] JoaoGabriel/WARNING/locust.runners: CPU usage was too high at some point during the test! See https://docs.locust.io/en/stable/running-distributed.html for how to distribute the load over multiple CPU cores or machines
+[2026-05-15 19:23:38,976] JoaoGabriel/INFO/linkextractor: ============================================================
+[2026-05-15 19:23:38,976] JoaoGabriel/INFO/linkextractor:   TESTE FINALIZADO
+[2026-05-15 19:23:38,976] JoaoGabriel/INFO/linkextractor:   Acesse http://localhost:8089 para ver os resultados
+[2026-05-15 19:23:38,976] JoaoGabriel/INFO/linkextractor:   Ou use --csv <prefixo> para exportar automaticamente
+[2026-05-15 19:23:38,976] JoaoGabriel/INFO/linkextractor: ============================================================
+[2026-05-15 19:23:38,978] JoaoGabriel/INFO/locust.main: Shutting down (exit code 0)
+Type     Name                                                                          # reqs      # fails |    Avg     Min     Max    Med |   req/s  failures/s
+--------|----------------------------------------------------------------------------|-------|-------------|-------|-------|-------|-------|--------|-----------
+GET      GET /api/ -> http://example.com/                                                1210     0(0.00%) |    506       7    4290    190 |   10.14        0.00
+GET      GET /api/ -> https://books.toscrape.com/                                        1209     0(0.00%) |    355       5    4118    210 |   10.13        0.00
+GET      GET /api/ -> https://docs.docker.com/                                           1190     0(0.00%) |    357       6    3401    180 |    9.97        0.00
+GET      GET /api/ -> https://flask.palletsprojects.com/                                 1179     0(0.00%) |    406       5    4079    180 |    9.88        0.00
+GET      GET /api/ -> https://github.com/ibnesayeed/linkextractor                        1152     0(0.00%) |   2887       8   30850    200 |    9.65        0.00
+GET      GET /api/ -> https://httpbin.org/                                               1201     0(0.00%) |    362       7    4392    190 |   10.06        0.00
+GET      GET /api/ -> https://locust.io/                                                 1163     0(0.00%) |    391       8    6104    190 |    9.74        0.00
+GET      GET /api/ -> https://redis.io/                                                  1172     0(0.00%) |    474       7   25004    190 |    9.82        0.00
+GET      GET /api/ -> https://training.play-with-docker.com/                             1146     0(0.00%) |   1195       6   16780    190 |    9.60        0.00
+GET      GET /api/ -> https://www.python.org/                                            1198     0(0.00%) |    372       5    4332    180 |   10.03        0.00
+--------|----------------------------------------------------------------------------|-------|-------------|-------|-------|-------|-------|--------|-----------
+         Aggregated                                                                     11820     0(0.00%) |    722       5   30850    190 |   99.01        0.00
+
+Response time percentiles (approximated)
+Type     Name                                                                                  50%    66%    75%    80%    90%    95%    98%    99%  99.9% 99.99%   100% # reqs
+--------|--------------------------------------------------------------------------------|--------|------|------|------|------|------|------|------|------|------|------|------
+GET      GET /api/ -> http://example.com/                                                      190    340    550    670   1600   2000   2500   3700   4300   4300   4300   1210
+GET      GET /api/ -> https://books.toscrape.com/                                              210    310    370    430    660   1200   2100   2200   4000   4100   4100   1209
+GET      GET /api/ -> https://docs.docker.com/                                                 180    300    430    520    720   1200   1900   2200   3100   3400   3400   1190
+GET      GET /api/ -> https://flask.palletsprojects.com/                                       180    270    350    460    740   2000   2800   3500   4000   4100   4100   1179
+GET      GET /api/ -> https://github.com/ibnesayeed/linkextractor                              200    300    430    540   2100  30000  30000  30000  30000  31000  31000   1152
+GET      GET /api/ -> https://httpbin.org/                                                     190    270    400    520    670   1200   2100   2400   4200   4400   4400   1201
+GET      GET /api/ -> https://locust.io/                                                       190    270    370    480    650   1700   2200   2900   5200   6100   6100   1163
+GET      GET /api/ -> https://redis.io/                                                        190    270    350    450    690   1900   4300   4900   9900  25000  25000   1172
+GET      GET /api/ -> https://training.play-with-docker.com/                                   190    280    410    510   2100   9700  12000  13000  14000  17000  17000   1146
+GET      GET /api/ -> https://www.python.org/                                                  190    280    420    530    710   1200   2100   2400   4100   4300   4300   1198
+--------|--------------------------------------------------------------------------------|--------|------|------|------|------|------|------|------|------|------|------|------
+         Aggregated                                                                            190    290    400    510    790   2000   4200  13000  30000  30000  31000  11820
+
+
+[Locust] Iniciando teste contra: http://localhost:5002
+
+
+[Locust] Teste concluído. Verifique os resultados na UI.
+

@@ -1,0 +1,3 @@
+Method,Name,Error,Occurrences
+GET,GET /api/ -> https://locust.io/,CatchResponseError('Erro interno do servidor (500) para https://locust.io/'),1
+GET,GET /api/ -> https://redis.io/,CatchResponseError('Erro interno do servidor (500) para https://redis.io/'),1

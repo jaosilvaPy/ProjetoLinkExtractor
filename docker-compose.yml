@@ -1,0 +1,53 @@
+services:
+  # ==========================================
+  # CACHE — bancos isolados por cenário
+  # ==========================================
+  redis:
+    image: redis:alpine
+    container_name: linkextractor_redis
+    ports:
+      - "6379:6379"
+
+  # ==========================================
+  # CENÁRIO 1: PYTHON SEM CACHE
+  # ==========================================
+  api-py-nocache:
+    image: linkextractor:python
+    container_name: linkextractor_py_nocache
+    ports:
+      - "5001:5000"
+
+  # ==========================================
+  # CENÁRIO 2: PYTHON COM CACHE (db=1)
+  # ==========================================
+  api-py-cache:
+    image: linkextractor:python
+    container_name: linkextractor_py_cache
+    environment:
+      - REDIS_URL=redis://redis:6379/1
+    ports:
+      - "5002:5000"
+    depends_on:
+      - redis
+
+  # ==========================================
+  # CENÁRIO 3: RUBY SEM CACHE
+  # ==========================================
+  api-rb-nocache:
+    image: linkextractor:ruby
+    container_name: linkextractor_rb_nocache
+    ports:
+      - "5003:4567"
+
+  # ==========================================
+  # CENÁRIO 4: RUBY COM CACHE (db=2)
+  # ==========================================
+  api-rb-cache:
+    image: linkextractor:ruby
+    container_name: linkextractor_rb_cache
+    environment:
+      - REDIS_URL=redis://redis:6379/2
+    ports:
+      - "5004:4567"
+    depends_on:
+      - redis

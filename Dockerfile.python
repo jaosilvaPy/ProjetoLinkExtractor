@@ -1,0 +1,21 @@
+FROM python:3.11-alpine
+
+LABEL description="Link Extractor API — Python/Flask"
+
+WORKDIR /app
+
+# Instala dependências do sistema necessárias para lxml/bs4
+RUN apk add --no-cache gcc musl-dev
+
+# Instala dependências Python
+RUN pip install --no-cache-dir \
+    flask==3.0.3 \
+    requests==2.32.3 \
+    beautifulsoup4==4.12.3 \
+    redis==5.0.8
+
+COPY linkextractor.py .
+
+EXPOSE 5000
+
+CMD ["python", "linkextractor.py"]

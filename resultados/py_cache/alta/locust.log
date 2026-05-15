@@ -1,0 +1,55 @@
+[2026-05-15 19:27:26,586] JoaoGabriel/INFO/locust.main: Starting Locust 2.43.3
+[2026-05-15 19:27:26,594] JoaoGabriel/INFO/locust.main: Run time limit set to 120 seconds
+[2026-05-15 19:27:26,596] JoaoGabriel/WARNING/root: Exception in keyboard input poller: cannot access free variable 'url' where it is not associated with a value in enclosing scope
+[2026-05-15 19:27:26,596] JoaoGabriel/INFO/linkextractor: ============================================================
+[2026-05-15 19:27:26,597] JoaoGabriel/INFO/linkextractor:   TESTE INICIADO
+[2026-05-15 19:27:26,597] JoaoGabriel/INFO/linkextractor:   Host alvo   : http://localhost:5002
+[2026-05-15 19:27:26,597] JoaoGabriel/INFO/linkextractor:   Usuários    : 350
+[2026-05-15 19:27:26,597] JoaoGabriel/INFO/linkextractor:   URLs/ciclo  : 10
+[2026-05-15 19:27:26,597] JoaoGabriel/INFO/linkextractor: ============================================================
+[2026-05-15 19:27:26,597] JoaoGabriel/INFO/locust.runners: Ramping to 350 users at a rate of 5.00 per second
+[2026-05-15 19:28:42,745] JoaoGabriel/INFO/locust.runners: All users spawned: {"LinkExtractorUser": 350} (350 total users)
+[2026-05-15 19:29:24,153] JoaoGabriel/INFO/locust.main: --run-time limit reached, shutting down
+[2026-05-15 19:29:28,697] JoaoGabriel/INFO/linkextractor: ============================================================
+[2026-05-15 19:29:28,697] JoaoGabriel/INFO/linkextractor:   TESTE FINALIZADO
+[2026-05-15 19:29:28,697] JoaoGabriel/INFO/linkextractor:   Acesse http://localhost:8089 para ver os resultados
+[2026-05-15 19:29:28,698] JoaoGabriel/INFO/linkextractor:   Ou use --csv <prefixo> para exportar automaticamente
+[2026-05-15 19:29:28,698] JoaoGabriel/INFO/linkextractor: ============================================================
+[2026-05-15 19:29:28,699] JoaoGabriel/INFO/locust.main: Shutting down (exit code 0)
+Type     Name                                                                          # reqs      # fails |    Avg     Min     Max    Med |   req/s  failures/s
+--------|----------------------------------------------------------------------------|-------|-------------|-------|-------|-------|-------|--------|-----------
+GET      GET /api/ -> http://example.com/                                                 705     0(0.00%) |   7241      16   24725   4400 |    5.78        0.00
+GET      GET /api/ -> https://books.toscrape.com/                                         672     0(0.00%) |   6594      39   24816   2100 |    5.51        0.00
+GET      GET /api/ -> https://docs.docker.com/                                            568     0(0.00%) |   4634     151   24265    710 |    4.66        0.00
+GET      GET /api/ -> https://flask.palletsprojects.com/                                  530     0(0.00%) |   4275     151   24747    600 |    4.34        0.00
+GET      GET /api/ -> https://github.com/ibnesayeed/linkextractor                         429     0(0.00%) |   5721     150   26307    520 |    3.52        0.00
+GET      GET /api/ -> https://httpbin.org/                                                634     0(0.00%) |   4463      35   24736    590 |    5.20        0.00
+GET      GET /api/ -> https://locust.io/                                                  462     0(0.00%) |   3915     154   24618    540 |    3.79        0.00
+GET      GET /api/ -> https://redis.io/                                                   483     0(0.00%) |   4620     154   24737    530 |    3.96        0.00
+GET      GET /api/ -> https://training.play-with-docker.com/                              404     0(0.00%) |   3380     150   21684    500 |    3.31        0.00
+GET      GET /api/ -> https://www.python.org/                                             613     0(0.00%) |   4482     157   24685    660 |    5.02        0.00
+--------|----------------------------------------------------------------------------|-------|-------------|-------|-------|-------|-------|--------|-----------
+         Aggregated                                                                      5500     0(0.00%) |   5067      16   26307    720 |   45.09        0.00
+
+Response time percentiles (approximated)
+Type     Name                                                                                  50%    66%    75%    80%    90%    95%    98%    99%  99.9% 99.99%   100% # reqs
+--------|--------------------------------------------------------------------------------|--------|------|------|------|------|------|------|------|------|------|------|------
+GET      GET /api/ -> http://example.com/                                                     4400   8600  15000  16000  18000  20000  23000  24000  25000  25000  25000    705
+GET      GET /api/ -> https://books.toscrape.com/                                             2100   7500  12000  14000  19000  20000  25000  25000  25000  25000  25000    672
+GET      GET /api/ -> https://docs.docker.com/                                                 710   5400   7700   8200  16000  19000  20000  23000  24000  24000  24000    568
+GET      GET /api/ -> https://flask.palletsprojects.com/                                       600   4900   7000   7600  16000  18000  21000  24000  25000  25000  25000    530
+GET      GET /api/ -> https://github.com/ibnesayeed/linkextractor                              520   4900   8000  15000  22000  24000  25000  25000  26000  26000  26000    429
+GET      GET /api/ -> https://httpbin.org/                                                     590   1900   7600   8200  17000  20000  24000  25000  25000  25000  25000    634
+GET      GET /api/ -> https://locust.io/                                                       550   4300   7100   7700  13000  16000  19000  20000  25000  25000  25000    462
+GET      GET /api/ -> https://redis.io/                                                        530   4900   7900  10000  16000  19000  24000  25000  25000  25000  25000    483
+GET      GET /api/ -> https://training.play-with-docker.com/                                   500   2600   5100   6700   9700  17000  19000  20000  22000  22000  22000    404
+GET      GET /api/ -> https://www.python.org/                                                  660   5300   7200   8000  16000  20000  24000  24000  25000  25000  25000    613
+--------|--------------------------------------------------------------------------------|--------|------|------|------|------|------|------|------|------|------|------|------
+         Aggregated                                                                            730   5600   7900   9500  17000  20000  24000  25000  25000  26000  26000   5500
+
+
+[Locust] Iniciando teste contra: http://localhost:5002
+
+
+[Locust] Teste concluído. Verifique os resultados na UI.
+
